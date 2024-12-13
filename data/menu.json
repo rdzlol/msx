@@ -4,7 +4,7 @@
         {
             "icon": "info",
             "label": "Welcome",
-            "data": "https://benzac-de.github.io/msx/data/welcome.json"
+            "data": "https://rdzlol.github.io/msx/data/welcome.json"
         },
         {
             "type": "separator",
@@ -13,12 +13,12 @@
         {
             "icon": "movie",
             "label": "Videos",
-            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
+            "data": "https://rdzlol.github.io//msx/data/base/videos.json"
         },
         {
             "icon": "smart-display",
             "label": "YouTube",
-            "data": "https://benzac-de.github.io/msx/data/base/youtube.json"
+            "data": "https://rdzlol.github.io//msx/data/base/youtube.json"
         }
     ]
 }
