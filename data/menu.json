@@ -11,11 +11,6 @@
             "label": "Base"
         },
         {
-            "icon": "movie",
-            "label": "Videos",
-            "data": "https://rdzlol.github.io/myt/data/base/videos.json"
-        },
-        {
             "icon": "smart-display",
             "label": "YouTube",
             "data": "https://rdzlol.github.io/myt/data/base/youtube.json"
