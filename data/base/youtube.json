@@ -1,0 +1,24 @@
+{
+    "type": "pages",
+    "headline": "YouTube",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,3,3",
+        "color": "black",
+        "imageFiller": "cover"
+    },
+    "items": [
+        {
+            "title": "Syria news",
+            "playerLabel": "Syria channel news",
+            "image": "https://img.youtube.com/vi/OLWU0rKOQ6o/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=OLWU0rKOQ6o"
+        },
+        {
+            "title": "Al arabiya news",
+            "playerLabel": "al arabiya channel news",
+            "image": "https://img.youtube.com/vi/jJqcFN-hjGg/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=jJqcFN-hjGg"
+        }
+    ]
+}
