@@ -4,7 +4,7 @@
         {
             "icon": "info",
             "label": "Welcome",
-            "data": "https://rdzlol.github.io/myt/data/welcome.json"
+            "data": "https://rdzlol.github.io/msx/data/welcome.json"
         },
         {
             "type": "separator",
@@ -13,7 +13,7 @@
         {
             "icon": "smart-display",
             "label": "YouTube",
-            "data": "https://rdzlol.github.io/myt/data/base/youtube.json"
+            "data": "https://rdzlol.github.io/msx/data/base/youtube.json"
         }
     ]
 }
