@@ -27,7 +27,12 @@
         {
             "icon": "movie",
             "label": "Maraya",
-            "data": "https://rdzlol.github.io/msx/data/series/maraya/eps.json"
+            "data": "https://rdzlol.github.io/msx/data/series/maraya/maraya.json"
+        },
+                {
+            "icon": "movie",
+            "label": "Nabi Yousef",
+            "data": "https://rdzlol.github.io/msx/data/series/maraya/nabiyousef.json"
         }
     ]
 }
