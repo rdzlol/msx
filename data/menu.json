@@ -1,14 +1,6 @@
 {
     "headline": "القنوات",
     "style": "overlay",
-    "transparent": 2,
-    "ready": {
-        "action": "execute:service:video:data:http://msx.benzac.de/services/background.php",
-        "data": {
-            "url": "https://www.shutterstock.com/shutterstock/videos/1102701823/preview/stock-footage-mecca-saudi-arabia-view-of-the-central-square-of-mecca-near-the-masjid-al-haram-from-the-balcony.webm",
-            "transparent": true
-        }
-    },
     "menu": [
         {
             "icon": "info",
