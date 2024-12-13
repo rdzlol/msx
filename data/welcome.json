@@ -1,0 +1,17 @@
+{
+    "pages": [
+        {
+            "items": [
+                {
+                    "type": "default",
+                    "layout": "0,0,12,6",
+                    "color": "msx-glass",
+                    "headline": "Welkom",
+                    "text": [
+                        "Rihawi & Douba tv"
+                    ]
+                }
+            ]
+        }
+    ]
+}
