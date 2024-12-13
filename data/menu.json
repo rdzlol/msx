@@ -1,0 +1,24 @@
+{
+    "headline": "القنوات",
+    "menu": [
+        {
+            "icon": "info",
+            "label": "Welcome",
+            "data": "https://benzac-de.github.io/msx/data/welcome.json"
+        },
+        {
+            "type": "separator",
+            "label": "Base"
+        },
+        {
+            "icon": "movie",
+            "label": "Videos",
+            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
+        },
+        {
+            "icon": "smart-display",
+            "label": "YouTube",
+            "data": "https://benzac-de.github.io/msx/data/base/youtube.json"
+        }
+    ]
+}
