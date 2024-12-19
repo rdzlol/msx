@@ -21,7 +21,7 @@
             "label": "Maraya",
             "data": "https://rdzlol.github.io/msx/data/series/maraya/maraya.json"
         },
-                {
+        {
             "icon": "movie",
             "label": "Nabi Yousef",
             "data": "https://rdzlol.github.io/msx/data/series/maraya/nabiyousef.json"
@@ -30,6 +30,6 @@
             "icon": "movie",
             "label": "رجال العز",
             "data": "https://rdzlol.github.io/msx/data/series/maraya/rijal.json"
-        },
+        }
     ]
 }
